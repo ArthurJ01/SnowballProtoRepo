@@ -3,7 +3,7 @@
     "name": "spr_ramp1",
     "path": "sprites/spr_ramp1/spr_ramp1.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
